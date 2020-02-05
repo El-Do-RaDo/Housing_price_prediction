@@ -1,2 +1,2 @@
 # Housing_price_prediction
-house price prediction using different model like linearn regression, decission tree, random forrest
+House price prediction using different model like Linearn Regression, Decission Tree, Random Forrest
